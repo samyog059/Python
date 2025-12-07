@@ -2,7 +2,7 @@
 import numpy as np
 
 # Defining maximum number of points in polygon
-MAX_POINTS = 20
+MAX_POINTS = 30
 
 # Function to return x-value of point of intersection of two lines
 def x_intersect(x1, y1, x2, y2, x3, y3, x4, y4):
