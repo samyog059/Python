@@ -90,11 +90,11 @@ if __name__ == "__main__":
 
     # Defining clipper polygon vertices in clockwise order
     # 1st Example with square clipper
-    clipper_size = 4
+    clipper_size = 3
     clipper_points = np.array([[150,150], [150,200], [200,200], [200,150]])
 
     # 2nd Example with triangle clipper
-    # clipper_size = 3
+    # clipper_size = 4
     # clipper_points = np.array([[100,300], [300,300], [200,100]])
 
     # Calling the clipping function
